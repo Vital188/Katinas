@@ -1,0 +1,17 @@
+.main{
+    display: block;
+    margin:0 5%;
+}
+
+.footer{
+
+}
+
+.im{
+    float:left;
+    margin:0;}
+
+.top{
+    float:right;
+    font-size: 20px;
+    margin:0 10px;}
