@@ -11,37 +11,45 @@ body {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-se
     margin:0;}
 
 .top{
+    display: inline;
     float:right;
-    font-size: 20px;
-    margin: 10px;
 }
 
-.up{
-
+.top .up{
+display: inline;
+font-size: 20px;
+text-decoration: none;
+margin-left: 50px;
+color: black;
 }
 
 .left-column{
-
+float: left;
+width: 40%;
 }
 
 .numbers{
-
+font-size: 50px;
+;
 }
 
 .main-text{
-
+font-size: 50px;
 }
 
 .line{
-
+width: 5px;
+height: 1px;
+color:aquamarine;
 }
 
 .paragraf{
-
+font-size: 5px;
 }
 
 .right-column{
-
+float:right;
+width: 40%;
 }
 
 .btn{
