@@ -3,11 +3,7 @@ body {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-se
 .main{
     display: inline-block;
     width: 1000px;
-    margin: 0 calc(100%-1000px/2) 60px;
-}
-
-.footer{
-
+    margin: 0 calc(50% - 500px) 60px;
 }
 
 .im{
@@ -17,4 +13,42 @@ body {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-se
 .top{
     float:right;
     font-size: 20px;
-    margin:0 10px;}
+    margin: 10px;
+}
+
+.up{
+
+}
+
+.left-column{
+
+}
+
+.numbers{
+
+}
+
+.main-text{
+
+}
+
+.line{
+
+}
+
+.paragraf{
+
+}
+
+.right-column{
+
+}
+
+.btn{
+
+}
+
+.white-btn{
+
+}
+
