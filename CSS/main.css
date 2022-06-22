@@ -30,21 +30,23 @@ width: 40%;
 
 .numbers{
 font-size: 50px;
+margin-bottom: 0;
 ;
 }
 
 .main-text{
 font-size: 50px;
+margin-top: 0;
 }
 
 .line{
 width: 5px;
-height: 1px;
-color:aquamarine;
+height: 100px;
+color: red;
 }
 
 .paragraf{
-font-size: 5px;
+font-size: 15px;
 }
 
 .right-column{
@@ -53,10 +55,27 @@ width: 40%;
 }
 
 .btn{
+margin-top: 40px;
+    background-color: blue;
+color:white;
+font-size: 20px;
+padding: 10px;
 
 }
 
 .white-btn{
-
+padding: 10px;
+color: blue;
+font-size: 20px;
 }
 
+.symbols {
+    float: left;
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.right {
+    float:right;
+}
