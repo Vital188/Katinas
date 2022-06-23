@@ -63,24 +63,35 @@ width: 40%;
 }
 
 .btn{
-margin-top: 40px;
-margin-right: 40px;
-background-color: blue;
-color:white;
-font-size: 20px;
-padding: 10px 30px;
-border: 20px solid red;
-border-radius: 25px;
-text-decoration: none;
+    margin-right: 10px;
+    background-color: #6ABDDD;
+    color: white;
+    font-size: 20px;
+    padding: 10px 30px;
+    border: 2px solid #6ABDDD;
+    border-radius: 22px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: #6ABDDD;
 }
 
 .white-btn{
-padding: 10px solid 2px;
-color: blue;
+margin-top: 40px;
+background-color: #fff;
+color: black;
 font-size: 20px;
-border-radius: 20px;
-border-color: aquamarine;
+padding: 10px 30px;
+border: 2px solid #6ABDDD;
+border-radius: 22px;
+text-decoration: none;
 }
+
+.white-btn:hover:hover {
+background-color: #6ABDDD;
+color: #fff;}
 
 .symbols {
 float: left;
