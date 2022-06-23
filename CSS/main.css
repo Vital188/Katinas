@@ -38,6 +38,7 @@ font-size: 50px;
 margin-bottom: 0;
 margin-top: 50px;
 font-weight: 400;
+font-family: system-ui;
 }
 
 .main-text{
@@ -54,10 +55,8 @@ margin-top: 4px;
 }
 
 .paragraf{
-font-size: 25px;
-margin-bottom: 85px;
-
-}
+font-size: 20px;
+margin-bottom: 45px}
 
 .right-column{
 margin-right: 15px;
@@ -77,16 +76,15 @@ text-decoration: none;
 }
 
 .btn:hover {
-    background-color: #fff;
-    color: #6ABDDD;
-}
+background-color: #fff;
+color: #6ABDDD;}
 
 .white-btn{
-margin-top: 40px;
+margin-top: 20px;
 background-color: #fff;
 color: #6ABDDD;
 font-size: 20px;
-padding: 10px 30px;
+padding: 10px 36px;
 border: 2px solid #6ABDDD;
 border-radius: 22px;
 text-decoration: none;
@@ -102,15 +100,15 @@ margin-left: 10px;
 color: gray;
 font-size: 20px;
 text-decoration: none;
-margin-top: 20px;
+margin-top: 10px;
 }
 
-.symbols.a:hover{
+.symbols.fa:hover{
 color:blue;
 }
 
 .right {
 float:right;
-font-size: 20px;
+font-size: 14px;
 margin-right: 30px;
 }
